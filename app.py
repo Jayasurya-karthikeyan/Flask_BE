@@ -55,6 +55,6 @@ def predict():
     cv2.destroyAllWindows()
     print(listOfEmotions)
     return listOfEmotions
-
+#comment added
 if __name__ == '__main__':
     app.run(debug=True)
